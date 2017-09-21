@@ -60,7 +60,7 @@ namespace Calculadora
         {
             if (!resul_.Text.Contains("."))
             {
-                resul_.Text = resul_.Text += ".";
+                resul_.Text = resul_.Text += ".";   
             }
             //punto.IsEnabled = false;
         }
